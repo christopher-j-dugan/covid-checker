@@ -1,0 +1,15 @@
+.idea/
+.sonar/
+.vs/
+bin/
+obj/
+TestResults/
+packages/
+*.jfm
+*.suo
+*.csproj.user
+*.dbmdl
+*.sqlproj.user
+*.Publish.xml
+*.user
+TestResult.xml
